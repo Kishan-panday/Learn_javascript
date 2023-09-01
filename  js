@@ -1,0 +1,4 @@
+console.log("Enter two digit number");
+let (a) = 'kishan';
+let (b) = 'pandey';
+console.log("sum = a+b");
